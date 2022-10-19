@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_flight_pla_0.user" name="x_snc_flight_pla_0.user">eeb9920741a611107f44064b62c9ce83</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 17:24:37</sys_created_on>
+        <sys_id>eab9920741a611107f44064b62c9ce84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eeb9920741a611107f44064b62c9ce83</sys_name>
+        <sys_package display_value="Flight Plan App" source="x_snc_flight_pla_0">aab9920741a611107f44064b62c9ce79</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flight Plan App">aab9920741a611107f44064b62c9ce79</sys_scope>
+        <sys_update_name>sys_embedded_help_role_eab9920741a611107f44064b62c9ce84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 17:24:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

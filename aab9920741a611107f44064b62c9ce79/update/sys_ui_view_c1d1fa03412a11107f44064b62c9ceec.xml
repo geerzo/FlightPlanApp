@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Assign_Space</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 19:09:55</sys_created_on>
+        <sys_id>c1d1fa03412a11107f44064b62c9ceec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assign Space</sys_name>
+        <sys_package display_value="Flight Plan App" source="x_snc_flight_pla_0">aab9920741a611107f44064b62c9ce79</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flight Plan App">aab9920741a611107f44064b62c9ce79</sys_scope>
+        <sys_update_name>sys_ui_view_c1d1fa03412a11107f44064b62c9ceec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 19:09:55</sys_updated_on>
+        <title>Assign Space</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

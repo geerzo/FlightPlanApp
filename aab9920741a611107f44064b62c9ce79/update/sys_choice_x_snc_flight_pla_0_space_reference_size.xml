@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="size" table="x_snc_flight_pla_0_space_reference" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>size</element>
+            <name>x_snc_flight_pla_0_space_reference</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 18:00:44</sys_created_on>
+            <sys_id>f7f1228f41a611107f44064b62c9ce21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>size</sys_name>
+            <sys_package display_value="Flight Plan App" source="x_snc_flight_pla_0">aab9920741a611107f44064b62c9ce79</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Flight Plan App">aab9920741a611107f44064b62c9ce79</sys_scope>
+            <sys_update_name>sys_choice_x_snc_flight_pla_0_space_reference_size</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 18:00:44</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Small</label>
+            <language>en</language>
+            <name>x_snc_flight_pla_0_space_reference</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 18:00:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73f1228f41a611107f44064b62c9ce21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 18:00:44</sys_updated_on>
+            <value>small</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medium</label>
+            <language>en</language>
+            <name>x_snc_flight_pla_0_space_reference</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 18:00:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fff1228f41a611107f44064b62c9ce22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 18:00:44</sys_updated_on>
+            <value>medium</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Large</label>
+            <language>en</language>
+            <name>x_snc_flight_pla_0_space_reference</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 18:00:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ff1228f41a611107f44064b62c9ce23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 18:00:44</sys_updated_on>
+            <value>large</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="service" table="x_snc_flight_pla_0_flight_plan" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>service</element>
+            <name>x_snc_flight_pla_0_flight_plan</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 17:40:12</sys_created_on>
+            <sys_id>8b4d560b41a611107f44064b62c9cef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>service</sys_name>
+            <sys_package display_value="Flight Plan App" source="x_snc_flight_pla_0">aab9920741a611107f44064b62c9ce79</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Flight Plan App">aab9920741a611107f44064b62c9ce79</sys_scope>
+            <sys_update_name>sys_choice_x_snc_flight_pla_0_flight_plan_service</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 17:40:12</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USMC</label>
+            <language>en</language>
+            <name>x_snc_flight_pla_0_flight_plan</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 17:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>474d560b41a611107f44064b62c9cef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 17:40:12</sys_updated_on>
+            <value>usmc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USN</label>
+            <language>en</language>
+            <name>x_snc_flight_pla_0_flight_plan</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 17:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>074d560b41a611107f44064b62c9cef6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 17:40:12</sys_updated_on>
+            <value>usn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USA</label>
+            <language>en</language>
+            <name>x_snc_flight_pla_0_flight_plan</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 17:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c74d560b41a611107f44064b62c9cef9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 17:40:12</sys_updated_on>
+            <value>usa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USAF</label>
+            <language>en</language>
+            <name>x_snc_flight_pla_0_flight_plan</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 17:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b4d560b41a611107f44064b62c9cefc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 17:40:12</sys_updated_on>
+            <value>usaf</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIV</label>
+            <language>en</language>
+            <name>x_snc_flight_pla_0_flight_plan</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 17:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f4d560b41a611107f44064b62c9ceff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 17:40:12</sys_updated_on>
+            <value>civ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CG</label>
+            <language>en</language>
+            <name>x_snc_flight_pla_0_flight_plan</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 17:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>034d960b41a611107f44064b62c9ce03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 17:40:12</sys_updated_on>
+            <value>cg</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SF</label>
+            <language>en</language>
+            <name>x_snc_flight_pla_0_flight_plan</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 17:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c34d960b41a611107f44064b62c9ce06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 17:40:12</sys_updated_on>
+            <value>sf</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
