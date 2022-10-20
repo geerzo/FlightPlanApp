@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Flight Request ">3184ee0341e611107f44064b62c9ce98</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 18:15:08</sys_created_on>
+        <sys_id>7245ee4341e611107f44064b62c9cef1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Flight Request </sys_name>
+        <sys_package display_value="Flight Plan App" source="x_snc_flight_pla_0">aab9920741a611107f44064b62c9ce79</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flight Plan App">aab9920741a611107f44064b62c9ce79</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_7245ee4341e611107f44064b62c9cef1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 18:15:08</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Flight Plan App">aab9920741a611107f44064b62c9ce79</application>
+        <file_path/>
+        <instance_id>0a71f7a6c36a959065d9d0f4e401315a</instance_id>
+        <instance_name>sad-oct-475-007</instance_name>
+        <name>sc_cat_item_catalog_7245ee4341e611107f44064b62c9cef1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Flight Request ">3184ee0341e611107f44064b62c9ce98</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-19 18:15:08</sys_created_on><sys_id>7245ee4341e611107f44064b62c9cef1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Flight Request </sys_name><sys_package display_value="Flight Plan App" source="x_snc_flight_pla_0">aab9920741a611107f44064b62c9ce79</sys_package><sys_policy/><sys_scope display_value="Flight Plan App">aab9920741a611107f44064b62c9ce79</sys_scope><sys_update_name>sc_cat_item_catalog_7245ee4341e611107f44064b62c9cef1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-19 18:15:08</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1499741022</payload_hash>
+        <record_name>Service Catalog.Flight Request </record_name>
+        <reverted_from/>
+        <source>62b9920741a611107f44064b62c9ce7c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 18:15:08</sys_created_on>
+        <sys_id>fa45ee4341e611107f44064b62c9cef7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183f174d2fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 18:15:08</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>7245ee43ede61110f529f011d8a05ef7</update_guid>
+        <update_guid_history>7245ee43ede61110f529f011d8a05ef7:-1499741022</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Flight Request ">ea066e8341e611107f44064b62c9ce5a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 18:18:24</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>80fe91cf42414bc28f8a6911ba83ceb1</sys_id>
+        <sys_metadata>7245ee4341e611107f44064b62c9cef1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Flight Request </sys_name>
+        <sys_package display_value="Flight Plan App" source="x_snc_flight_pla_0">aab9920741a611107f44064b62c9ce79</sys_package>
+        <sys_parent display_value="Flight Request ">3184ee0341e611107f44064b62c9ce98</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Flight Plan App">aab9920741a611107f44064b62c9ce79</sys_scope>
+        <sys_scope_delete display_value="">01cd9d9b19fd424380178a96b38d9609</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_7245ee4341e611107f44064b62c9cef1</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_7245ee4341e611107f44064b62c9cef1">fa45ee4341e611107f44064b62c9cef7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 18:18:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

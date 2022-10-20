@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Flight Plan" max_length="40" name="x_snc_flight_pla_0_flight_plan" sizeclass="1" text_index="true" type="collection">
+        <element choice="3" label="Aircraft size" max_length="40" name="aircraft_size" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Small" sequence="0" value="small"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
+                <element inactive_on_update="false" label="Large" sequence="2" value="large"/>
+            </choice>
+        </element>
+        <element label="Aircraft Type" max_length="40" name="aircraft_type" type="string"/>
+        <element label="Crew" max_length="40" name="crew" type="integer"/>
+        <element label="Departure Date" max_length="40" name="departure_date" type="string"/>
+        <element choice="3" label="Field Name" max_length="40" name="field_name" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="KBay" sequence="0" value="kbay"/>
+                <element inactive_on_update="false" label="Hickham" sequence="1" value="hickham"/>
+                <element inactive_on_update="false" label="North Island" sequence="2" value="north_island"/>
+                <element inactive_on_update="false" label="Schofield" sequence="3" value="schofield"/>
+            </choice>
+        </element>
+        <element label="Landing Date" max_length="40" name="landing_date" read_only="true" type="glide_date_time"/>
+        <element label="Passengers" max_length="40" name="passengers" type="integer"/>
+        <element choice="3" label="Purpose" max_length="40" name="purpose" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Duty" sequence="0" value="duty"/>
+                <element inactive_on_update="false" label="Leisure" sequence="1" value="leisure"/>
+            </choice>
+        </element>
+        <element label="Registration number" max_length="40" name="registration_number" type="string"/>
+        <element choice="3" label="Service" max_length="40" name="service" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="USMC" sequence="0" value="usmc"/>
+                <element inactive_on_update="false" label="USN" sequence="1" value="usn"/>
+                <element inactive_on_update="false" label="USA" sequence="2" value="usa"/>
+                <element inactive_on_update="false" label="USAF" sequence="3" value="usaf"/>
+                <element inactive_on_update="false" label="CIV" sequence="4" value="civ"/>
+                <element inactive_on_update="false" label="CG" sequence="5" value="cg"/>
+                <element inactive_on_update="false" label="SF" sequence="6" value="sf"/>
+            </choice>
+        </element>
+        <element label="Space ID" max_length="32" name="space_id" reference="x_snc_flight_pla_0_space_reference" type="reference"/>
+    </element>
+</database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Space Reference" max_length="40" name="x_snc_flight_pla_0_space_reference" sizeclass="7" text_index="true" type="collection">
+        <element choice="3" label="Field Name" max_length="40" name="field_name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="KBay" sequence="0" value="kbay"/>
+                <element inactive_on_update="false" label="Hickham" sequence="1" value="hickham"/>
+                <element inactive_on_update="false" label="Schofield" sequence="2" value="schofield"/>
+                <element inactive_on_update="false" label="North Island" sequence="3" value="north_island"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" label="Size" max_length="40" name="size" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Small" sequence="0" value="small"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
+                <element inactive_on_update="false" label="Large" sequence="2" value="large"/>
+            </choice>
+        </element>
+        <element label="Space ID" max_length="40" name="space_id" type="string"/>
+    </element>
+</database>
